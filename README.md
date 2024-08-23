@@ -4,7 +4,13 @@ This project involves training a reinforcement learning agent to play the Snake 
 
 ## Project Demonstration
 
-[![name]([https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true](https://github.com/afrahshah/snake-rl/blob/c513609eddc40bc0b8d924afc0937243836b8199/Screenshot%202024-08-23%20121651.png))]
+### During Training
+![During Training]((https://github.com/afrahshah/snake-rl/raw/c513609eddc40bc0b8d924afc0937243836b8199/Screenshot%202024-08-23%20121651.png))
+
+### During Training
+![During Training](
+https://github.com/afrahshah/snake-rl/raw/c513609eddc40bc0b8d924afc0937243836b8199/Screenshot%202024-08-21%20103245.png)
+
 
 ## Project Structure
 
