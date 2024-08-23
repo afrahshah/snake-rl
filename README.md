@@ -4,6 +4,8 @@ This project involves training a reinforcement learning agent to play the Snake 
 
 ## Project Demonstration
 
+[![name]([https://github.com/thecodebuzz/FileSizePOC/blob/master/TheCodebuzz.png?raw=true](https://github.com/afrahshah/snake-rl/blob/c513609eddc40bc0b8d924afc0937243836b8199/Screenshot%202024-08-23%20121651.png))]
+
 ## Project Structure
 
 - **`game.py`**: Contains the implementation of the Snake game, including the game logic and rendering.
