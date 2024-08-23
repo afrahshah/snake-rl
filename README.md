@@ -24,7 +24,7 @@ https://github.com/afrahshah/snake-rl/raw/c513609eddc40bc0b8d924afc0937243836b81
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/snake-ai.git
+   git clone https://github.com/afrahshah/snake-rl.git
    cd snake-ai
 2. **Install dependencies**
    ```bash
