@@ -5,7 +5,7 @@ This project involves training a reinforcement learning agent to play the Snake 
 ## Project Demonstration
 
 ### During Training
-![During Training]((https://github.com/afrahshah/snake-rl/raw/c513609eddc40bc0b8d924afc0937243836b8199/Screenshot%202024-08-23%20121651.png))
+![During Training](https://github.com/afrahshah/snake-rl/raw/c513609eddc40bc0b8d924afc0937243836b8199/Screenshot%202024-08-23%20121651.png)
 
 ### During Training
 ![During Training](
@@ -26,3 +26,22 @@ https://github.com/afrahshah/snake-rl/raw/c513609eddc40bc0b8d924afc0937243836b81
    ```bash
    git clone https://github.com/yourusername/snake-ai.git
    cd snake-ai
+2. **Install dependencies**
+   ```bash
+   pip install torch numpy pygame matplotlib
+
+## Usage
+   ### Training the Agent
+   To start training the agent, run the following command:
+   
+   `ls -l`
+
+    python agent.py
+    
+The training script will:
+
+Initialize the game and the agent.
+Train the agent through multiple games.
+Save the model state after training.
+
+## Happy coding!
