@@ -3,7 +3,6 @@
 This project involves training a reinforcement learning agent to play the Snake game. The agent uses a Deep Q-Network (DQN) to learn optimal strategies and improve its performance over time.
 
 ## Project Demonstration
-[![Header](https://www.creative-tim.com/blog/content/images/size/w1140/2021/08/rebranding-post--1-.jpg "Header")](https://www.creative-tim.com/)
 
 ## Project Structure
 
